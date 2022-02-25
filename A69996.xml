@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the late engagement between the French king's forces, and those of the Grand Seignior before Candia, on the 25th of June 1669 as it came in a letter from the Duke de Navailles, the French general : with a list of the slain and wounded.</title>
+            <author>Navailles, Philippe de Montault de Bénac, duc de, 1619-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69996</idno>
+            <idno type="STC">Wing E3574</idno>
+            <idno type="STC">ESTC R12201</idno>
+            <idno type="EEBO-CITATION">13127072</idno>
+            <idno type="OCLC">ocm 13127072</idno>
+            <idno type="VID">97845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:25 or 746:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the late engagement between the French king's forces, and those of the Grand Seignior before Candia, on the 25th of June 1669 as it came in a letter from the Duke de Navailles, the French general : with a list of the slain and wounded.</title>
+                  <author>Navailles, Philippe de Montault de Bénac, duc de, 1619-1684.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item is identified as Wing E3574 at reel 491:25 and as Wing N254 (entry cancelled in Wing 2nd ed.) at reel 746:40.</note>
+                  <note>Reproduction of originals in: Bodleian Library and Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Louis XIV, 1643-1715.</term>
+               <term>Crete (Greece) --  History.</term>
+               <term>Hērakleion (Greece) --  History --  Siege, 1667-1669.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97845:1"/>
+            <pb facs="tcp:97845:1"/>
+            <p>An Exact ACCOUNT Of the Late Engagement Between the <hi>French</hi> King's Forces, and thoſe of the <hi>Grand Seignior</hi> before CANDIA, On the 25th of <hi>June</hi> 1669.</p>
+            <p>As it came in a LETTER from the Duke <hi>de Navailles</hi> the <hi>French</hi> General.</p>
+            <p>With a LIST of the <hi>SLAIN</hi> and <hi>WO<g ref="char:V">Ʋ</g>NDED.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho. Newcomb,</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97845:2"/>
+            <pb n="3" facs="tcp:97845:2"/>
+            <head>
+               <hi>An Exact Account</hi> Of the late Engagement between the <hi>French</hi> King<hi>'s</hi> Forces, and thoſe of the <hi>Grand Seignior</hi> before <hi>Candia,</hi> on the <hi>25th</hi> of <hi>June, 1669.</hi>
+            </head>
+            <p>THe Fleet appointed for the Tranſportation of the Succors ſent by His Moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty for the Relief of <hi>Candia,</hi> under the Command of the Duke <hi>de Navailles</hi> Gene<g ref="char:EOLhyphen"/>ral of the Land-Forces, ſet Sail from <hi>Thou<g ref="char:EOLhyphen"/>lon</hi> the Fifth of <hi>June</hi> 1669, about 4 in the Afternoon. The 17th following they were joyned by 14 <hi>Venetian</hi> Ships having on board them Horſes, <hi>&amp;c.</hi> for that Expedition; and came all to an Anchor in the Bay of this City the 19th, where His Majeſties Fleet receiving the uſual Salutes from the Town, anſwered them by the Admiral only. The Duke <hi>de Beaufort,</hi> the Duke <hi>de Navailles,</hi> Monſieur <hi>Col<g ref="char:EOLhyphen"/>bert</hi> (Brother of the Miniſter of State) and other Offi<g ref="char:EOLhyphen"/>cers of the Army Embarked themſelves in a Chaloupe to
+<pb n="4" facs="tcp:97845:3"/>
+diſcover the Enemies Poſts, which, as to the Scituation of their Camp at the <hi>Sabionera,</hi> and St. <hi>Andre,</hi> they found to agree with the Draught ſent thence to the Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the <hi>April</hi> before; Save only that the Enemy had made ſome advance eſpecially towards the ſide of the <hi>Baſtion</hi> St. <hi>Andre,</hi> of which indeed they were now become Maſters, and had raiſed a Battery of two Pieces of Canon, to annoy all Veſſels paſ<g ref="char:EOLhyphen"/>ſing in, or out of the Port.</p>
+            <p>Whil'ſt they were thus Viewing, and conſidering the Place, they could perceive a ſmall Barke, with <hi>Venetian</hi> Colours come from the Port, and make towards the Fleet, which it ſeems had on board her the Sieur <hi>Caſtellan</hi> (Kinſ<g ref="char:EOLhyphen"/>man to him that Commands a Brigade in the Army, and now employed as an Engineer) eſpecially of late; for the Defence of the <hi>Baſtion</hi> of the <hi>Sabionera.</hi>
+            </p>
+            <p>He was ſent by the Captain General of the Republick to Complement the Admiral the Duke <hi>de Navailles,</hi> and the reſt of the Officers of the Army in the Name of the Garriſon, and to inform them of the true ſtate of the Place, and the extremity it was reduced to; bringing alſo with him a Deſign of the ſame for better Demonſtration. He freely declared, They had no other hopes of Preſerving the Place, but the Expectation of theſe Succors; and, that he had expreſs Orders from the Captain-General, to deſire 3000 Men to Mount the Guard that very night, leſt the Enemy, upon their Arrival, ſhould reſolve upon a General Aſſault, and carry the place, before their Forces could come a ſhore.</p>
+            <p>This did a little ſurprize the Duke <hi>de Navalleis,</hi> who was loath to adventure the Landing of part of his Men, and therefore thought beſt, that himſelf, and ſome of the Principal Officers of his Army ſhould firſt take a view of
+<pb n="5" facs="tcp:97845:3"/>
+the Town that night, and afterwards as he ſaw occaſion take care for the Landing his Men.</p>
+            <p>This he Communicated to the Admirall, and accor<g ref="char:EOLhyphen"/>dingly about 11 of the Clock with Monſieur <hi>de Champ</hi> and ſome other Officers went on board the ſame Barque, that brought Monſieur <hi>Caſtellan,</hi> for his more particular infor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>On the Morrow morning being the 21th. The Duke <hi>de Navailles</hi> having well weighed all things, and finding the State of the Place to be no better then what Monſieur <hi>Caſtellan</hi> had reported, The Enemy entrenched, their Can<g ref="char:EOLhyphen"/>non mounted upon the Baſtion St. <hi>Andre,</hi> whence they played continually upon the firſt Retrenchments which there being little ground left, was not in a Condition to make any conſiderable defence, and that the ſecond Re<g ref="char:EOLhyphen"/>trenchment which the beſieged had begun to caſt up be<g ref="char:EOLhyphen"/>hind it could not poſſibly be finiſhed time enough to pre<g ref="char:EOLhyphen"/>vent their gaining a mine, (which he was aſſured was un<g ref="char:EOLhyphen"/>derneath the firſt Retrenchment) of which if the Enemy were once poſſeſſed, the whole place would lye open to them, and endanger the loſs of the Garriſon.</p>
+            <p>This he thought might reflect upon the honor of the Armes of the King his Maſter, that the place ſhould be taken in ſight of the ſuccors without attempting ſome<g ref="char:EOLhyphen"/>thing towards its relief, (the Admirall concurring with him in the ſame opinion) they reſolved upon a ſpeedy Lan<g ref="char:EOLhyphen"/>ding of all their forces, which they began to put in Execu<g ref="char:EOLhyphen"/>tion that very night, ſo that in 2 or 3 dayes they had all their men aſhore.</p>
+            <p>The 22d 4 of the Kings Muſquetiers and a Quarter<g ref="char:EOLhyphen"/>maſter of Horſe, who had orders to goe and provide quar<g ref="char:EOLhyphen"/>ters in the Town, adventuring to enter the Port by day,
+<pb n="6" facs="tcp:97845:4"/>
+3 of the Muſquetiers were killed by the Enemies Canon from the Baſtion of St. <hi>Andre,</hi> and the Quartermaſter at the ſame time loſt one of his hands.</p>
+            <p>The 23d the Admirall entred the Towne and viewed the Poſts, the Generals calling a Councell of Offi<g ref="char:EOLhyphen"/>cers concluded there was no other expedient for the pre<g ref="char:EOLhyphen"/>ſerving the Town, then by a Generall aſſault immediate<g ref="char:EOLhyphen"/>ly to be made upon the Enemy, before they could receive any recruits from <hi>Morea</hi> or fortify themſelves in their Tren<g ref="char:EOLhyphen"/>ches. Moreover by this means they might ſurprize them are they could gather their Cavalry together, which was now diſmounted and diſperſed up and down the Countrey.</p>
+            <p>Theſe conſiderations confirmed the reſolution of the aſ<g ref="char:EOLhyphen"/>ſault which was to be made upon the <hi>Sabionera</hi> ſide, as having a greater convenience of ſallying out of that quar<g ref="char:EOLhyphen"/>ter then that of St. <hi>Andre,</hi> and accordingly on the 24th at night, or the 25th by break of day endeavor to beat the Enemy from their works and to raiſe them. This was the opinion of our Generall and Officers and approved of by the <hi>Venetians.</hi>
+            </p>
+            <p>It was thought nevertheleſs too great an undertaking for our ſtrength alone, being from all hands informed the Enemy had 7 or 8000 men in that quarter, wherefore he required of the Captain Generall to furniſh us with all the men he poſſibly could.</p>
+            <p>The great deſire our Generall had to proſecute this de<g ref="char:EOLhyphen"/>ſigne, in order to the ſaving of the place, and the confi<g ref="char:EOLhyphen"/>dence he had of his owne Forces, with their promiſe of a ſupply, encouraged him to ſet upon the <hi>Sabionera,</hi> though it were entrenched, and of greater ſtrength then the body wherewith he intended to attempt it. And therefore de<g ref="char:EOLhyphen"/>ſired the Captain Generall to asſigne him 5 or 600 Pyoneers
+<pb n="7" facs="tcp:97845:4"/>
+to ſlight the Enemies workes, and nayle down their Cannon, and that at the ſame time a brisk ſally might be made upon the ſide of the St. <hi>Andre</hi> to keep them in play there, that they might not ſuccor the <hi>Sabionera.</hi> All which the Captain Generall promiſed punctually to per<g ref="char:EOLhyphen"/>forme.</p>
+            <p>The Admirall alſo who would needs have a part in this Action, ingaged to land 1500 of his men from his Ships, and to lead them himſelf though he ſubmitted to receive or<g ref="char:EOLhyphen"/>ders from the Generals (Monſieur <hi>Colbert</hi> being appoynted his Marſhall of the Camp) and to cauſe his men of war to be brought within Musquet ſhott of St. <hi>Andre</hi> and to keep playing upon the Enemies Camp with his Cannon from their Ships, being unwilling to be a witneſs only to this glorious enterpriſe without running all the riſques that ſhould attend it.</p>
+            <p>But the <hi>Venetians</hi> who at firſt promiſed us 4 or 500 horſe and 3000 foot to joyn with ours, ſhewing the im<g ref="char:EOLhyphen"/>posſibility of affording any, took upon them nevertheleſs to divert the Enemy at St. <hi>Andre,</hi> and by a ſtout ſalley which they would make under the favour of our Cannon from the Ships to enter the Fort it ſelf.</p>
+            <p>The 24th at night the Admirall having landed his ſea<g ref="char:EOLhyphen"/>men ſent notice thereof to the Duke <hi>de Navailles</hi> aſſuring him of their good diſpoſition, each Company being commanded by the Captain of that veſſell out of which they were taken, and that now he wanted only orders to draw them out, and to fall upon the Enemy.</p>
+            <p>The Generall returned him anſwer by the Baron <hi>de St. Mark</hi> that it was too great a danger for a perſon of his quality to expoſe himſelf to, whom he alſo deſired to uſe all arguments to diſſwade him, urging the great impor<g ref="char:EOLhyphen"/>tance
+<pb n="8" facs="tcp:97845:5"/>
+the ſafety of his perſon was to his Majeſties Service, and the pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticular good of the deſign now in hand, but all his inſtances could not prevail upon him to alter his reſolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>That night the D. <hi>de Navailles</hi> went to take a view of the Rere of the Enemies Camp, where he reſolved to make his Onſet, and in his return viſited the Fort <hi>Demetrius,</hi> by which he intended to iſſue out his Troops, and having diſpoſed his <hi>Battalia,</hi> he acquainted the Captain General, the <hi>D.</hi> of <hi>Beaufort, Monſieur S. Andre Montbrun</hi> with the Order, deſiring they would with all freedom give their opi<g ref="char:EOLhyphen"/>nion upon it, (an affair of ſo great importance to Chriſten<g ref="char:EOLhyphen"/>dom, requiring to be well weighed,) which when under<g ref="char:EOLhyphen"/>ſtood, they unanimouſly approved it to have been ſo well laid, that there was nothing to be added or altered.</p>
+            <p>It being now neer day, the <hi>D. de Navailles</hi> began to draw out his men out of the Town, with the greateſt ſilence imaginable in the Order agreed upon before, which was as follows.</p>
+            <p>Four hundred men were drawn out of each body, 50 Grenadiers placed in the Front of them, and brought up by 3 Troops of horſe commanded by <hi>Monſieur Dam<g ref="char:EOLhyphen"/>pier.</hi>
+            </p>
+            <p>Theſe were followed by the Regiments of <hi>Gaures,</hi> Saint <hi>Valier, Lorrain,</hi> and <hi>Britany,</hi> 4 Troops of horſe upon their wings, and brought up by the Regiments of <hi>Montague, Jonſac,</hi> and <hi>Grance.</hi>
+            </p>
+            <p>The Regiments of <hi>Harcourt, Conti, Lignieres, Mom<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zat</hi> and <hi>Vendoſme</hi> made up the Reſerve commanded by <hi>Monſieur de Choiſeville,</hi> 4 Squadrons of horſe marching upon their wings, and were Poſted between the Enemies two Camps, to cut off all relief that might come from
+<pb n="9" facs="tcp:97845:5"/>
+S. <hi>Andre</hi> to the <hi>Sabionera,</hi> they were about to attacque.</p>
+            <p>There were alſo 50 of the Kings Muſquetiers and 100 re<g ref="char:EOLhyphen"/>formed Officers placed between the firſt and ſecond line to be ready upon any emergency.</p>
+            <p>The Forces that came from on board the Ships were ordered to make their ſally on the left ſide of the Trench of the <hi>Sabionera.</hi>
+            </p>
+            <p>Whilſt the Army was drawing out the <hi>D. de Navailles</hi> cauſed two breaches to be made to ſally out of the Trench, by one of which 500 men ſhould attacque them in the Front, the reſt to divide themſelves into two bodies, and flank the two Batteries, but with expreſs Order not to ſtir till they knew the Camp was engaged, and in caſe they gained the Batteries, which in all likelihood they would, there to range themſelves, and not to advance a foot with<g ref="char:EOLhyphen"/>out freſh Orders.</p>
+            <p>After ſilence commanded, which was punctually obſer<g ref="char:EOLhyphen"/>ved, though in a ſtrange and uneven Countrey, we marched in this excellent order till we came within a very ſmall di<g ref="char:EOLhyphen"/>ſtance of the Enemy, and ranged our ſelves in <hi>Battalia</hi> in a little place leading into their Camp, without ever being diſcovered.</p>
+            <p>The day was alſo propitious to our deſigns, our laſt Troops being ſcarce come up to their Lines, when we could diſcern the enemies Camp.</p>
+            <p>Our commanded men who were then within half Muſ<g ref="char:EOLhyphen"/>quet ſhot of the Enemy were fired upon by their Muſquet<g ref="char:EOLhyphen"/>tiers, and our General diſcovering two Redoubts at the head of the Quarters, cauſed them to be ſet upon by the Forces commanded by <hi>Monſieur Dampier,</hi> who ſeconded by the Guards immediately carried them with great reſolution, putting all to the ſword that made any reſiſtance.</p>
+            <p>
+               <pb n="10" facs="tcp:97845:6"/>At the ſame time the Enemies Lines were aſſaulted and taken by the Regiments of S. <hi>Valier</hi> and <hi>Lorrain,</hi> whileſt the commanded men fell in upon the Rere of the Trench, <hi>Monſieur Caſtellan</hi> ſeconding them in the head of the Com<g ref="char:EOLhyphen"/>pany of Guards under his Command, with infinite execu<g ref="char:EOLhyphen"/>tion and ſlaughter of the Enemy, poſſeſſed themſelves of them: here our Troops fell to plundering, though it were prohibited upon pain of death, and entring the ene<g ref="char:EOLhyphen"/>mies Huts ſlew great numbers, whom they ſurprized before they could get into a poſture of defence.</p>
+            <p>Hitherto every thing ſucceeded according to our de<g ref="char:EOLhyphen"/>ſires, though we had not above 300 men from on board the ſhips, and few or none of the <hi>Venetians,</hi> ſo that this handful of men routed this numerous enemy, amongſt whom was ſo great conſternation, that they threw them<g ref="char:EOLhyphen"/>ſelves head-long into the Sea when they were Maſters of the Batteries and Canon.</p>
+            <p>The Enemy thus beaten from their Camp, drew up upon an Aſcent on our right hand, whence viewing our ſmall numbers on the left, ſcarce 300 Seamen advan<g ref="char:EOLhyphen"/>cing, notwithſtanding all the importunity of the Admiral and <hi>Monſieur Colbert,</hi> with a hideous ſhout, rallied to charge us in thoſe Trenches they had ſo lately abandoned; but our General perceiving their intent ſuſtained the charge, and forced them twice to a confuſed retreat, not without a conſiderable loſs; but they being a ſort of people that quickly rally, were preſently upon us again, with as much eagerneſs as formerly they fled: Our General then put himſelf in the head of the Company of Guards, and cauſing the Squadron of S. <hi>Eſteve</hi> to follow, received them ſo warmly, that we became Maſters of the upper ground they had taken.</p>
+            <p>But then there happened an unlucky accident, the
+<pb n="11" facs="tcp:97845:6"/>
+Powder Granadoes <hi>&amp;c.</hi> of a Battery poſſeſſed by the Guards taking fire, the ſoldiers fearing there had been a Mine, diſperſed the whole Battalion, running to the right and left in that diſorder that Monſieur <hi>Caſtellan</hi> had much adoe to make them to rally.</p>
+            <p>The 300 from on board the Ships, terrified with this accident, deſerted their Poſts, and by all the endea<g ref="char:EOLhyphen"/>vors could poſſibly be uſed would not be brought back to the fight.</p>
+            <p>The Generall and <hi>Monſieur Colbert</hi> ſeeing this diſaſter came up with our firſt Battalions in the head of 50 of the Kings Muſquetiers on foot, where with this ſmall body they performed things beyond all imagination.</p>
+            <p>This misfortune gave ſuch encouragement to the Turks that they attacqued our men afreſh with vigor enough, who were ſo ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken with the violence of the aſſault and number <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemy that the greateſt part began to retreat with<g ref="char:EOLhyphen"/>out <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and had not our General with great reſolution in the head of a ſmall troop of horſe he had newly rally<g ref="char:EOLhyphen"/>ed together, maintained a Curtaine that favoured our re<g ref="char:EOLhyphen"/>treat, the Enemy had prevailed upon this diſorder to our very great diſadvantage.</p>
+            <p>In the mean time the body of the Reſerve, was ſur<g ref="char:EOLhyphen"/>rounded with ſeveral Companies, powred in upon them from St. <hi>Andre,</hi> between whom there was a ſlight skir<g ref="char:EOLhyphen"/>miſh but of no long continuance, which our men not being able to ſuſtaine, though infinitely Encouraged thereunto by the Meſſieurs <hi>le Bret</hi> and <hi>Choyſeul,</hi> who had both their horſes killed under them, Followed the Example of the Seamen, and made a diſorderly retreat.</p>
+            <p>This compleated the loſs of that Advantage, we ſo long had in our hands, and the Enemy fearing our retreat
+<pb n="12" facs="tcp:97845:7"/>
+might betray them into an Ambuſh, had not Courage e<g ref="char:EOLhyphen"/>nough to purſue, retaining ſtill ſuch a dread of our forces though retreated in diſorder, that our Generall aſſiſted on<g ref="char:EOLhyphen"/>ly by the Meſſieurs <hi>Tulladet,</hi> and <hi>Argellon,</hi> and 4 or 5 Gentlemen of his own family that never deſerted him, made good ſo orderly a retreat, that the Enemy durſt not attempt this ſmall number, but diſcharging a great volley of ſmall ſhot upon them, our Generals horſe was hurt in two places, and himſelf received a ſhot on his Armor but without hurt to his body.</p>
+            <p>The Admirall the Duke <hi>de Beaufort</hi> abandoned by all his men fell in this action, without any perſon about him but what were killed or wounded; among the former was Monſieur <hi>Bourgneuf,</hi> the later Monſieur <hi>Hoquette,</hi> who had his Foot ſhot off at the Ancle by a Musquet bullet.</p>
+            <p>This glorious Action, So happily begun, and carry<g ref="char:EOLhyphen"/>ed on with that excellent conduct, however unfortunate in the diſorder, might nevertheleſs have been eſteemed a ſuccesfull and advantagious enterprize, were it not for the invaluable loſs of our Admiral, and thoſe other Noble perſons that fell with him.</p>
+            <p>The advice from the Enemies Camp ſpeaks the loſs on their ſide to have been very conſiderable, above 1800 men having been killed, drowned, and taken Priſoners.</p>
+         </div>
+         <div type="list_of_casualities">
+            <pb n="13" facs="tcp:97845:7"/>
+            <head>A Particular Liſt of the Slain and Wounded.</head>
+            <list>
+               <head>Principal Officers Slain.</head>
+               <item>THe Duke <hi>de Beaufort,</hi> Admiral of <hi>France.</hi>
+               </item>
+               <item>The Sieur <hi>de Rozan,</hi> brother to the Marquiſs <hi>Blan<g ref="char:EOLhyphen"/>quefort,</hi> Maſter of the Camp.</item>
+               <item>Marquis <hi>de Fabert,</hi> Maſter of the Camp.</item>
+               <item>Monſieur <hi>de Bourgneuf, Ayde de Camp.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Principal Officers and Perſons of note wounded.</head>
+               <item>Monſieur <hi>Caſtellan</hi> dangerouſly.</item>
+               <item>Monſieur <hi>Lignieres</hi> Mareſhal of the Camp dangerouſly.</item>
+               <item>Monſieur <hi>Molier</hi> Captain of the Cavalry.</item>
+               <item>The Chevalier <hi>de Bouillon.</hi>
+               </item>
+               <item>Monſieur <hi>Montaigue</hi> Colonel.</item>
+               <item>Monſieur <hi>de Cauuiſſon.</hi>
+               </item>
+               <item>Monſieur <hi>le Gaure.</hi>
+               </item>
+               <item>Marquiſs <hi>d'Uxelles Ayde de Camp.</hi>
+               </item>
+               <item>Monſieur <hi>de la Hoquette, Ayde de Camp.</hi>
+               </item>
+               <item>Monſieur <hi>de Montbrun,</hi> not St. <hi>Andre Montbrun.</hi>
+               </item>
+               <item>Vicount <hi>de Caſſe</hi> 3 wounds on the head with a Cimitar.</item>
+               <item>
+                  <hi>Du Cles,</hi> Captain of the Duke <hi>de Navailles</hi> Guards, wound<g ref="char:EOLhyphen"/>ed with an Arrow in his head.</item>
+               <item>Mr. <hi>de la Moche d'Origni,</hi> Engineer.</item>
+               <pb n="14" facs="tcp:97845:8"/>
+               <item>The Little Chevalier <hi>de Vendoſme,</hi> received 3 ſhots in his Armor, the Bullets of two pierced to his very Shirt, without hurting him.</item>
+            </list>
+            <div type="part">
+               <head>Officers in the ſeveral Regiments killed and Wounded.</head>
+               <list>
+                  <head>In Monſieur <hi>Caſtellan</hi>'s Brigade of Foot.</head>
+                  <item>1 Captain, 1 Lieutenant, Monſieur <hi>Guenengau,</hi> Vo<g ref="char:EOLhyphen"/>luntier, killed.</item>
+                  <item>1 Enſign wounded.</item>
+               </list>
+               <list>
+                  <head>In Mr. <hi>de Rozans</hi> Regiment.</head>
+                  <item>1 Lieutenant wounded.</item>
+               </list>
+               <list>
+                  <head>In Mr. <hi>de Grances</hi> Regimen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <item>1 Major, 1 Lieutenant, killed.</item>
+                  <item>1 Captain, 1 Lieutenant, hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de Jonzac</hi>'s Regim<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t</head>
+                  <item>1 Major killed.</item>
+                  <item>1 Lieutenant Colonel, 1 Captain, 3 Lieutenants <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de Vendoſmes</hi> Regiment,</head>
+                  <item>1 Lieutenant killed.</item>
+                  <item>1 Major, 1 Captain hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur St. <hi>Valier</hi>'s Regiment.</head>
+                  <item>2 Captains killed.</item>
+                  <item>Monſieur St. <hi>Valier,</hi> 1 Major, 2 Captains, 2 Lieutenants hurt.</item>
+               </list>
+               <list>
+                  <head>In Mr. <hi>de Montpeyroux</hi>'s Regiment.</head>
+                  <item>1 Lieutenant hurt.</item>
+               </list>
+               <list>
+                  <pb n="15" facs="tcp:97845:8"/>
+                  <head>In Monſieur <hi>Dampiers</hi>'s Regiment.</head>
+                  <item>4 Captains hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de Harcourt's</hi> Regiment.</head>
+                  <item>1 Captain, 1 Lieutenant killed.</item>
+                  <item>5 Captains, 2 Lieutenants hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de Conty</hi>'s Regiment.</head>
+                  <item>1 Lieutenant killed.</item>
+                  <item>1 Captain hurt.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Reformed Officers.</head>
+               <list>
+                  <head>In the <hi>Navarre</hi> Brigade.</head>
+                  <item>1 Lieutenant killed.</item>
+               </list>
+               <list>
+                  <head>In the <hi>Lorrain</hi> Brigade.</head>
+                  <item>2 Majors <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Captain killed.</item>
+                  <item>3 Captains, 2 L<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>nants hurt.</item>
+               </list>
+               <list>
+                  <head>In the <hi>Bretagne</hi> Brigade.</head>
+                  <item>1 Captain killed.</item>
+                  <item>1 Collonel, 1 Captain, 1 Lieutenant hurt.</item>
+               </list>
+               <list>
+                  <head>In the <hi>Piedmont</hi> Brigade.</head>
+                  <item>2 Captains, 1 Lieutenant killed.</item>
+               </list>
+               <list>
+                  <head>In the Brigade of <hi>Normandy.</hi>
+                  </head>
+                  <item>3 Captains, 1 Lieutenant killed.</item>
+               </list>
+               <list>
+                  <head>In the Brigade of <hi>Picardy.</hi>
+                  </head>
+                  <item>4 Captains, 5 Lieutenants killed.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:97845:9" rendition="simple:additions"/>
+               <head>Horſe.</head>
+               <list>
+                  <head>In Monſieur <hi>de Choyſeul</hi>'s Brigade.</head>
+                  <item>3 Captains, 3 Lieutenants hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de</hi> St. <hi>Eſteue</hi>'s.</head>
+                  <item>1 Captain, 1 Lieutenant hurt.</item>
+               </list>
+               <list>
+                  <head>In Monſieur <hi>de Sommieures.</hi>
+                  </head>
+                  <item>2 Lieutenants killed.</item>
+                  <item>2 Lieutenants hurt.</item>
+               </list>
+               <list>
+                  <item>Private Soldiers killed and wounded 5 or 600 Men, beſides Priſoners.</item>
+                  <item>Of the Enemy were killed, drowned, and taken Priſo<g ref="char:EOLhyphen"/>ners, about 1800.</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
